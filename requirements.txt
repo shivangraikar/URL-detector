@@ -4,3 +4,4 @@ tld == 0.12.6
 beautifulsoup4 == 4.10.0
 urllib3 == 1.26.7
 whois == 0.9.13
+lxml == 4.6.3
