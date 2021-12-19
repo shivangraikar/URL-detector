@@ -5,3 +5,4 @@ beautifulsoup4 == 4.10.0
 urllib3 == 1.26.7
 whois == 0.9.13
 lxml == 4.6.3
+scikit-learn == 0.24.2
