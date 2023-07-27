@@ -3,6 +3,6 @@ numpy == 1.25.1
 tld == 0.13
 beautifulsoup4 == 4.12.2
 urllib3 == 2.0.4
-whois == 0.9.13
+whois == 0.9.27
 lxml == 4.6.3
 scikit-learn == 0.24.2
