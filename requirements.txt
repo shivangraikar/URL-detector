@@ -1,8 +1,8 @@
-streamlit == 0.81.1
-numpy == 1.20.2
-tld == 0.12.6
-beautifulsoup4 == 4.10.0
-urllib3 == 1.26.7
+streamlit == 1.12.0
+numpy == 1.25.1
+tld == 0.13
+beautifulsoup4 == 4.12.2
+urllib3 == 2.0.4
 whois == 0.9.13
 lxml == 4.6.3
 scikit-learn == 0.24.2
